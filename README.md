@@ -15,6 +15,8 @@
 3. Open `jquery-dom.html` via Live Server or directly in a modern browser.
 
 ## Screenshots
-- **JSON Validation:** `![books.json](screenshots/books-json.png)`
-- **Fetch Output (`books.html`):** `![books.html](screenshots/books-html.png)`
+- **JSON Validation:** <img width="518" height="592" alt="Screenshot 2026-11-16 095431" src="https://github.com/user-attachments/assets/07c7e98d-9891-490d-a7bb-8b772575b6e3" />
+
+- **Fetch Output (`books.html`):** <img width="520" height="380" alt="image" src="https://github.com/user-attachments/assets/e34fb929-a981-449e-93f8-15bafeeece66" />
+
 - **jQuery Output (`jquery-dom.html`):** `![jquery-dom.html](screenshots/jquery-dom.png)`
