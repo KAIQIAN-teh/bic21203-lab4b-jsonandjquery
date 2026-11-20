@@ -19,4 +19,6 @@
 
 - **Fetch Output (`books.html`):** <img width="520" height="380" alt="image" src="https://github.com/user-attachments/assets/e34fb929-a981-449e-93f8-15bafeeece66" />
 
-- **jQuery Output (`jquery-dom.html`):** `![jquery-dom.html](screenshots/jquery-dom.png)`
+- **jQuery Output (`jquery-dom.html`):** <img width="1856" height="237" alt="Screenshot 2026-11-20 161540" src="https://github.com/user-attachments/assets/d5321899-5ef1-4e7e-b648-cebebcb1d44c" /> <img width="663" height="223" alt="Screenshot 2026-11-20 161545" src="https://github.com/user-attachments/assets/8ddab5e7-3546-4e98-ae3a-5e99b4385cc5" />
+
+
